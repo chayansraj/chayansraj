@@ -1,7 +1,5 @@
 ### May the data be with you! 👋
 
-![starting shortly (1)](https://github.com/chayansraj/chayansraj/assets/22219089/31772518-6a53-4566-a1d9-bed7b235224f)
-
 
 <!--
 **chayansraj/chayansraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
