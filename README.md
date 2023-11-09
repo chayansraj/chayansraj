@@ -1,7 +1,7 @@
 ### May the data be with you! 👋
 
- 🔭 I’m currently working on Streaming service project   
- 🌱 I’m currently learning Data Engineering
+ 🔭 I’m currently working on Data Streaming project   
+ 🌱 I’m currently learning about Big Data Streaming tools
 
 <!--
 **chayansraj/chayansraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
