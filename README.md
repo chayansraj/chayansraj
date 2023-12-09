@@ -4,7 +4,7 @@
  🌱 I’m currently learning about Big Data Streaming tools
 
 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chayansraj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chayansraj/0" alt="Recent Article on Medium"> 
 
 
 
