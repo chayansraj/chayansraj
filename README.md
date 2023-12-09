@@ -4,7 +4,7 @@
  🌱 I’m currently learning about Big Data Streaming tools
 
 
-[![Chayan Shrang Raj Latest Blog](https://github-readme-medium.vercel.app/?username=chayansraj&limit=1&bg=#9595e8&text=#e7e7ee)](https://medium.com/@omidnikrah)
+<!--[![Chayan Shrang Raj Latest Blog](https://github-readme-medium.vercel.app/?username=chayansraj&limit=1&bg=#9595e8&text=#e7e7ee)](https://medium.com/@omidnikrah)-->
 
 
 
