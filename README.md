@@ -1,6 +1,6 @@
 ### May the data be with you! 👋
 
- 🔭 I’m currently working on Data Streaming project   
+ 🔭 I’m currently working on a Data Streaming project   
  🌱 I’m currently learning about Big Data Streaming tools
 
 
