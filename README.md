@@ -1,4 +1,4 @@
-### May the data be with you! 👋
+
 
 Scratching that engineering itch. 
 
@@ -15,7 +15,7 @@ Scratching that engineering itch.
 
 Here are some ideas to get you started:
 
-
+  May the data be with you!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
