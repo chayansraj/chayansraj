@@ -1,6 +1,6 @@
 
 
-AI wielding Jedi from a galaxy far far away!
+Scratching that engineering itch.
 
 
 
